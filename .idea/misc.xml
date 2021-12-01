@@ -14,6 +14,8 @@
         <entry key="app/src/main/res/layout/item_grocery.xml" value="0.20878623188405798" />
         <entry key="app/src/main/res/layout/item_objectcategory.xml" value="0.23550724637681159" />
         <entry key="app/src/main/res/layout/layout_full_image.xml" value="0.20878623188405798" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14895833333333333" />
       </map>
     </option>
   </component>
